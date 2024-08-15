@@ -1,5 +1,21 @@
-nginx
+# 个人私库镜像开始
 nacos/nacos-server:v2.2.0
+elasticsearch:8.7.0
+kibana:8.7.0
+rabbitmq:3.8-management
+redis
+
+
+
+
+# 个人私库镜像结束
+
+
+
+
+
+
+nginx
 #支持私库
 k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 xhofe/alist:latest
