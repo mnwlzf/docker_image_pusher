@@ -1,11 +1,11 @@
 # 个人私库镜像开始
-nacos/nacos-server:v2.2.0
-elasticsearch:8.7.0
-kibana:8.7.0
-rabbitmq:3.8-management
-redis
+# nacos/nacos-server:v2.2.0
+# elasticsearch:8.7.0
+# kibana:8.7.0
+# rabbitmq:3.8-management
+# redis
 
-
+mongo
 
 
 # 个人私库镜像结束
@@ -15,9 +15,9 @@ redis
 
 
 
-nginx
+# nginx
 #支持私库
-k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
-xhofe/alist:latest
+# k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
+# xhofe/alist:latest
 #支持指定架构
---platform=linux/arm64 xiaoyaliu/alist
+# --platform=linux/arm64 xiaoyaliu/alist
