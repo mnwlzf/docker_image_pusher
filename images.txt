@@ -5,7 +5,7 @@
 # rabbitmq:3.8-management
 # redis
 
-minio
+minio/minio
 
 
 # 个人私库镜像结束
